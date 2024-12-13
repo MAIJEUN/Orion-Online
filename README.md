@@ -8,7 +8,7 @@ description: 오리온 온라인에 오신걸 진심으로 환영합니다!
 
 {% tabs %}
 {% tab title="서버 정보" %}
-* 서버 주소: <mark style="color:yellow;">5rion.kr</mark>
+* 서버 주소: [<mark style="color:yellow;">5rion.kr</mark>](getting-started/connect-server.md)
 * 서버 버전: <mark style="color:yellow;">1.21.3</mark>
 {% endtab %}
 
