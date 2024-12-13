@@ -11,3 +11,4 @@
 ## 📎 가이드 <a href="#guide" id="guide"></a>
 
 * [📧 문의하기](guide/contact-us.md)
+* [🖼️ 리소스팩](guide/resource-pack.md)
