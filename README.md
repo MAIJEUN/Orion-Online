@@ -1,5 +1,7 @@
 ---
 description: 오리온 온라인에 오신걸 진심으로 환영합니다!
+cover: .gitbook/assets/Untitled (2).png
+coverY: 0
 ---
 
 # 👋 환영합니다
