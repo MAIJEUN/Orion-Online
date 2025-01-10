@@ -1,6 +1,6 @@
 # 📚 규칙
 
-## <mark style="color:blue;">디스코드</mark>
+## [<mark style="color:blue;">디스코드</mark>](../getting-started/discord.md)
 
 ### 1. 존중과 배려를 실천하세요.
 
