@@ -1,6 +1,6 @@
 ---
 description: 오리온 온라인에 오신걸 진심으로 환영합니다!
-cover: .gitbook/assets/Untitled (2).png
+cover: .gitbook/assets/2025-01-09_19.04.46.png
 coverY: 0
 ---
 
