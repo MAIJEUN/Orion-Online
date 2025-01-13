@@ -8,11 +8,11 @@
 
 <div><figure><img src="../.gitbook/assets/스크린샷 2024-12-13 213835.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/스크린샷 2024-12-13 214237.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3. `5rion.kr`을 "서버 주소" 칸에 넣어주세요.
+3. `5rion.kr`를 "서버 주소" 칸에 넣어주세요.
 
 <figure><img src="../.gitbook/assets/스크린샷 2024-12-13 214652.png" alt=""><figcaption></figcaption></figure>
 
-4. "[**서버 리소스팩**](../guide/resource-pack.md)" 을 사용으로 채크해주세요.
+4. "[**서버 리소스팩**](../guide/resource-pack.md)" 을 사용으로 채크해 주세요.
 
 <figure><img src="../.gitbook/assets/스크린샷 2024-12-13 215825.png" alt=""><figcaption></figcaption></figure>
 
